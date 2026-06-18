@@ -6,11 +6,31 @@ I'm passionate about building AI-powered solutions, data-driven applications, an
 
 ## Featured Projects
 
+## Featured Projects
+
+### Chehra
+
+An AI-powered personal skincare and cosmetics assistant that helps users evaluate products, track routines, and monitor skin progress over time.
+
+**Key Features**
+
+* Ingredient analysis and product insights
+* Barcode-based product lookup
+* Daily skin progress tracking
+* Personalized beauty journal
+* Mobile-first application experience
+
+**Tech Stack:** Supabase, Capacitor, JavaScript, AI APIs
+
+---
+
 ### Asamyukta Hasta Classification
 
 A Computer Vision project that recognizes Bharatanatyam hand gestures using MediaPipe landmarks and Machine Learning.
 
 **Tech Stack:** Python, OpenCV, MediaPipe, Scikit-Learn
+
+---
 
 ### EventLabs Webinar Engagement Prediction
 
@@ -18,15 +38,22 @@ Built predictive models to identify high-intent webinar participants through fea
 
 **Tech Stack:** Python, Pandas, Scikit-Learn, XGBoost
 
+---
+
 ### TGTWeCan NGO Website
 
 Designed and developed the official website for an NGO, handling both development and deployment.
 
 **Tech Stack:** HTML, CSS, JavaScript
 
+---
+
 ### Yetav
 
 A product-focused website project emphasizing user experience, responsiveness, and modern web design.
+
+**Tech Stack:** HTML, CSS, JavaScript
+
 
 ## Technical Skills
 
