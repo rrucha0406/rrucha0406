@@ -6,8 +6,6 @@ I'm passionate about building AI-powered solutions, data-driven applications, an
 
 ## Featured Projects
 
-## Featured Projects
-
 ### Chehra
 
 An AI-powered personal skincare and cosmetics assistant that helps users evaluate products, track routines, and monitor skin progress over time.
