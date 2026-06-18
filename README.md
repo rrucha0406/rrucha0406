@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi, I'm Rrucha Wamanse 
 
-<!--
-**rrucha0406/rrucha0406** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech in Artificial Intelligence & Machine Learning at Walchand College of Engineering, Sangli.
 
-Here are some ideas to get you started:
+I'm passionate about building AI-powered solutions, data-driven applications, and user-focused digital products. My interests lie at the intersection of Machine Learning, Computer Vision, Data Science, and Design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+### Asamyukta Hasta Classification
+
+A Computer Vision project that recognizes Bharatanatyam hand gestures using MediaPipe landmarks and Machine Learning.
+
+**Tech Stack:** Python, OpenCV, MediaPipe, Scikit-Learn
+
+### EventLabs Webinar Engagement Prediction
+
+Built predictive models to identify high-intent webinar participants through feature engineering and classification techniques.
+
+**Tech Stack:** Python, Pandas, Scikit-Learn, XGBoost
+
+### TGTWeCan NGO Website
+
+Designed and developed the official website for an NGO, handling both development and deployment.
+
+**Tech Stack:** HTML, CSS, JavaScript
+
+### Yetav
+
+A product-focused website project emphasizing user experience, responsiveness, and modern web design.
+
+## Technical Skills
+
+**Languages:** Python, C++, SQL, JavaScript
+
+**Machine Learning:** Scikit-Learn, TensorFlow, Pandas, NumPy
+
+**Web Development:** HTML, CSS, JavaScript, FastAPI
+
+**Tools:** Git, GitHub, VS Code, Jupyter Notebook, Google Colab
+
+## Currently Learning
+
+* Advanced Machine Learning
+* Computer Vision Applications
+* System Design Fundamentals
+* MLOps and Deployment
+
+## Connect With Me
+
+* LinkedIn: [(https://www.linkedin.com/in/rrucha-wamanse-428267324/)]
+* Email: [rruchawamanse@gmail.com]
+
+
