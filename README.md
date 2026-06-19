@@ -27,6 +27,7 @@ An AI-powered personal skincare and cosmetics assistant that helps users evaluat
 A Computer Vision project that recognizes Bharatanatyam hand gestures using MediaPipe landmarks and Machine Learning.
 
 **Tech Stack:** Python, OpenCV, MediaPipe, Scikit-Learn
+
 view demo: [https://drive.google.com/file/d/1s6l1DhS3Y3VEWRnJssJAn8QkpcBlHOhN/view]
 ---
 
