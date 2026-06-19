@@ -44,7 +44,7 @@ Designed and developed the official website for an NGO, handling both developmen
 
 **Tech Stack:** HTML, CSS, JavaScript
 
-live website:[togetherwecan21.org]
+live website:[https://togetherwecan21.org/]
 
 ---
 
