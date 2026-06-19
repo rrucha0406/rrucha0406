@@ -43,6 +43,7 @@ Built predictive models to identify high-intent webinar participants through fea
 Designed and developed the official website for an NGO, handling both development and deployment.
 
 **Tech Stack:** HTML, CSS, JavaScript
+live website[togetherwecan21.org]
 
 ---
 
