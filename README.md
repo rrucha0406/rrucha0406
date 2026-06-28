@@ -1,5 +1,6 @@
 # Hi, I'm Rrucha Wamanse 
 
+Pre Final Year Student ,
 B.Tech in Artificial Intelligence & Machine Learning at Walchand College of Engineering, Sangli.
 
 I'm passionate about building AI-powered solutions, data-driven applications, and user-focused digital products. My interests lie at the intersection of Machine Learning, Computer Vision, Data Science, and Design.
