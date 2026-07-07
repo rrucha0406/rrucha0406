@@ -30,7 +30,7 @@ A Computer Vision project that recognizes Bharatanatyam hand gestures using Medi
 **Tech Stack:** Python, OpenCV, MediaPipe, Scikit-Learn
 
 View demo: [https://drive.google.com/file/d/1s6l1DhS3Y3VEWRnJssJAn8QkpcBlHOhN/view]
----
+
 
 ### EventLabs Webinar Engagement Prediction
 
