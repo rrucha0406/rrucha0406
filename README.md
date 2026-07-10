@@ -78,5 +78,7 @@ A product-focused website project emphasizing user experience, responsiveness, a
 
 * LinkedIn: [(https://www.linkedin.com/in/rrucha-wamanse-428267324/)]
 * Email: [rruchawamanse@gmail.com]
+* always happy to connect
+* 
 
 
