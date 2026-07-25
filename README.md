@@ -1,4 +1,4 @@
-# Hi, I'm Rrucha Wamanse 
+# Hi, I'm Rrucha   Wamanse 
 
 Pre Final Year Student ,
 B.Tech in Artificial Intelligence & Machine Learning at Walchand College of Engineering, Sangli.
