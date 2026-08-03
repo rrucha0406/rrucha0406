@@ -5,23 +5,7 @@ B.Tech in Artificial Intelligence & Machine Learning at Walchand College of Engi
 
 I'm passionate about building AI-powered solutions, data-driven applications, and user-focused digital products. My interests lie at the intersection of Machine Learning, Computer Vision, Data Science, and Design.
 
-## Featured Projects
 
-### Chehra
-
-An AI-powered personal skincare and cosmetics assistant that helps users evaluate products, track routines, and monitor skin progress over time.
-
-**Key Features**
-
-* Ingredient analysis and product insights
-* Barcode-based product lookup
-* Daily skin progress tracking
-* Personalized beauty journal
-* Mobile-first application experience
-
-**Tech Stack:** Supabase, Capacitor, JavaScript, AI APIs
-
----
 
 ### Asamyukta Hasta Classification
 
